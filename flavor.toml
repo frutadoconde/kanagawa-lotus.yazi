@@ -19,6 +19,13 @@
 # lotusOrange    "#cc6d00"
 # lotusAqua2     "#5e857a"
 
+[flavor]
+dark  = ""
+light = ""
+
+[app]
+overall = {}
+
 [mgr]
 marker_copied = { fg = "#6f894e", bg = "#6f894e" }
 marker_cut = { fg = "#c84053", bg = "#c84053" }
